@@ -2,7 +2,7 @@
 
 Aplicativo de previsão do tempo em react native
 
-## works
+## Desenvolvimento
 
 -  [x] inicio App
 -  [x] Navegação
