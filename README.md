@@ -4,7 +4,7 @@ Aplicativo de previsão do tempo em react native
 
 ## Desenvolvimento
 
--  [x] inicio App
+-  [x] Inicio App
 -  [x] Navegação
 -  [x] Tratamento dados estáticos
 -  [ ] chamada api
